@@ -1,0 +1,4 @@
+################### RepeatMasker (v4.0.5) ################### 
+RepeatMasker -pa 4 -s -gccalc -nolow \
+	-species fungi /fungi/taruna/shared/Geosmithia/assemble/gm5-allpaths-scaffolds-unwrapped.fa \
+	-dir /fungi/taruna/shared/gm5/repeatmasker
